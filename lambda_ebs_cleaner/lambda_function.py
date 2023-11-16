@@ -27,7 +27,6 @@ def lambda_handler(event, context):
         client_ebs_snapshot = boto3.client('ec2', region_name=reg)
         response_client_ebs_snapshot = client_ebs_snapshot.describe_snapshots(OwnerIds=[account_id])
         utc = pytz.UTC  ## Convert datetime from naive to aware
-        #snapshot_date = utc.localize(datetime.now() - timedelta(days=30))
 
         try:
             for snapshot in response_client_ebs_snapshot['Snapshots']:
