@@ -102,9 +102,9 @@ PLTR@DXFEED,176.80,Day High 176.80,#ffffff,#FF0000,left,3,TRUE
 PLTR@DXFEED,172.33,Day Low 172.33,#ffffff,#00AA00,left,3,TRUE
 PLTR@DXFEED,175.09,Prev Day High 175.09,#ffffff,#CC0000,left,3,TRUE
 PLTR@DXFEED,168.34,Prev Day Low 168.34,#ffffff,#008800,left,3,TRUE
-PLTR@DXFEED,170.00,Put Wall/Key Delta Strike 170.00,#ffffff,#00AA00,left,3,TRUE
+PLTR@DXFEED,170.00,Put Wall 170.00,#ffffff,#00AA00,left,3,TRUE
 PLTR@DXFEED,180.00,Call Wall 180.00,#ffffff,#FF0000,left,3,TRUE
-PLTR@DXFEED,175.00,Key Gamma Strike 175.00,#ffffff,#FF8C00,left,3,TRUE
+PLTR@DXFEED,175.00,Key Gamma Strike/Key Delta Strike 175.00,#ffffff,#FF8C00,left,3,TRUE
 QQQ@DXFEED,733.75,Day High 733.75,#ffffff,#FF0000,left,3,TRUE
 QQQ@DXFEED,724.03,Day Low 724.03,#ffffff,#00AA00,left,3,TRUE
 QQQ@DXFEED,727.25,Prev Day High 727.25,#ffffff,#CC0000,left,3,TRUE
@@ -140,12 +140,13 @@ SPY@DXFEED,771.28,Prev Day Low 771.28,#ffffff,#008800,left,3,TRUE
 SPY@DXFEED,770.00,Put Wall 770.00,#ffffff,#00AA00,left,3,TRUE
 SPY@DXFEED,780.00,Call Wall/Key Gamma Strike 780.00,#ffffff,#FF0000,left,3,TRUE
 SPY@DXFEED,750.00,Key Delta Strike 750.00,#ffffff,#0000FF,left,3,TRUE
-SPY@DXFEED,772.00,0DTE Put Wall/0DTE Most Negative Net Gamma 772.00,#ffffff,#00AA00,left,3,TRUE
+SPY@DXFEED,772.00,0DTE Put Wall 772.00,#ffffff,#00AA00,left,3,TRUE
 SPY@DXFEED,777.00,0DTE Call Wall/0DTE Most Positive Net Gamma 777.00,#ffffff,#FF0000,left,3,TRUE
+SPY@DXFEED,773.00,0DTE Most Negative Net Gamma 773.00,#ffffff,#FF8C00,left,3,TRUE
 TSLA@DXFEED,337.07,Day High 337.07,#ffffff,#FF0000,left,3,TRUE
 TSLA@DXFEED,325.24,Day Low 325.24,#ffffff,#00AA00,left,3,TRUE
 TSLA@DXFEED,335.50,Prev Day High 335.50,#ffffff,#CC0000,left,3,TRUE
 TSLA@DXFEED,323.64,Prev Day Low 323.64,#ffffff,#008800,left,3,TRUE
-TSLA@DXFEED,330.00,Put Wall/Key Gamma Strike 330.00,#ffffff,#00AA00,left,3,TRUE
-TSLA@DXFEED,350.00,Call Wall 350.00,#ffffff,#FF0000,left,3,TRUE
+TSLA@DXFEED,330.00,Put Wall 330.00,#ffffff,#00AA00,left,3,TRUE
+TSLA@DXFEED,350.00,Call Wall/Key Gamma Strike 350.00,#ffffff,#FF0000,left,3,TRUE
 TSLA@DXFEED,400.00,Key Delta Strike 400.00,#ffffff,#0000FF,left,3,TRUE
