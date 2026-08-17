@@ -17,13 +17,12 @@ AMD@DXFEED,517.35,Day High 517.35,#ffffff,#FF0000,left,3,TRUE
 AMD@DXFEED,504.52,Day Low 504.52,#ffffff,#00AA00,left,3,TRUE
 AMD@DXFEED,514.67,Prev Day High 514.67,#ffffff,#CC0000,left,3,TRUE
 AMD@DXFEED,483.20,Prev Day Low 483.20,#ffffff,#008800,left,3,TRUE
-AMD@DXFEED,500.00,Put Wall/Key Gamma Strike 500.00,#ffffff,#00AA00,left,3,TRUE
+AMD@DXFEED,400.00,Put Wall 400.00,#ffffff,#00AA00,left,3,TRUE
 AMD@DXFEED,520.00,Call Wall 520.00,#ffffff,#FF0000,left,3,TRUE
-AMD@DXFEED,300.00,Key Delta Strike 300.00,#ffffff,#0000FF,left,3,TRUE
-AMD@DXFEED,505.00,0DTE Put Wall 505.00,#ffffff,#00AA00,left,3,TRUE
-AMD@DXFEED,510.00,0DTE Call Wall 510.00,#ffffff,#FF0000,left,3,TRUE
-AMD@DXFEED,502.50,0DTE Most Negative Net Gamma 502.50,#ffffff,#FF8C00,left,3,TRUE
-AMD@DXFEED,507.50,0DTE Most Positive Net Gamma 507.50,#ffffff,#0000FF,left,3,TRUE
+AMD@DXFEED,500.00,Key Gamma Strike/Key Delta Strike 500.00,#ffffff,#FF8C00,left,3,TRUE
+AMD@DXFEED,502.50,0DTE Put Wall 502.50,#ffffff,#00AA00,left,3,TRUE
+AMD@DXFEED,510.00,0DTE Call Wall/0DTE Most Positive Net Gamma 510.00,#ffffff,#FF0000,left,3,TRUE
+AMD@DXFEED,505.00,0DTE Most Negative Net Gamma 505.00,#ffffff,#FF8C00,left,3,TRUE
 AMZN@DXFEED,265.75,Day High 265.75,#ffffff,#FF0000,left,3,TRUE
 AMZN@DXFEED,258.34,Day Low 258.34,#ffffff,#00AA00,left,3,TRUE
 AMZN@DXFEED,265.81,Prev Day High 265.81,#ffffff,#CC0000,left,3,TRUE
@@ -42,9 +41,10 @@ AVGO@DXFEED,399.36,Day High 399.36,#ffffff,#FF0000,left,3,TRUE
 AVGO@DXFEED,391.31,Day Low 391.31,#ffffff,#00AA00,left,3,TRUE
 AVGO@DXFEED,412.50,Prev Day High 412.50,#ffffff,#CC0000,left,3,TRUE
 AVGO@DXFEED,388.50,Prev Day Low 388.50,#ffffff,#008800,left,3,TRUE
-AVGO@DXFEED,380.00,Put Wall/0DTE Put Wall 380.00,#ffffff,#00AA00,left,3,TRUE
+AVGO@DXFEED,380.00,Put Wall 380.00,#ffffff,#00AA00,left,3,TRUE
 AVGO@DXFEED,400.00,Call Wall/Key Gamma Strike/Key Delta Strike 400.00,#ffffff,#FF0000,left,3,TRUE
-AVGO@DXFEED,392.50,0DTE Call Wall 392.50,#ffffff,#FF0000,left,3,TRUE
+AVGO@DXFEED,392.50,0DTE Put Wall 392.50,#ffffff,#00AA00,left,3,TRUE
+AVGO@DXFEED,405.00,0DTE Call Wall 405.00,#ffffff,#FF0000,left,3,TRUE
 AVGO@DXFEED,390.00,0DTE Most Negative Net Gamma 390.00,#ffffff,#FF8C00,left,3,TRUE
 AVGO@DXFEED,395.00,0DTE Most Positive Net Gamma 395.00,#ffffff,#0000FF,left,3,TRUE
 CRWV@DXFEED,109.90,Day High 109.90,#ffffff,#FF0000,left,3,TRUE
