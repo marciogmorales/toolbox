@@ -26,7 +26,7 @@ AMZN@DXFEED,250.00,Put Wall/Key Delta Strike 250.00,#ffffff,#00AA00,left,3,TRUE
 AMZN@DXFEED,275.00,Call Wall 275.00,#ffffff,#FF0000,left,3,TRUE
 AMZN@DXFEED,260.00,Key Gamma Strike 260.00,#ffffff,#FF8C00,left,3,TRUE
 ARM@DXFEED,247.99,Day High 247.99,#ffffff,#FF0000,left,3,TRUE
-ARM@DXFEED,241.73,Day Low 241.73,#ffffff,#00AA00,left,3,TRUE
+ARM@DXFEED,241.71,Day Low 241.71,#ffffff,#00AA00,left,3,TRUE
 ARM@DXFEED,240.25,Prev Day High 240.25,#ffffff,#CC0000,left,3,TRUE
 ARM@DXFEED,233.29,Prev Day Low 233.29,#ffffff,#008800,left,3,TRUE
 ARM@DXFEED,240.00,Put Wall 240.00,#ffffff,#00AA00,left,3,TRUE
@@ -40,7 +40,7 @@ AVGO@DXFEED,358.71,Prev Day Low 358.71,#ffffff,#008800,left,3,TRUE
 AVGO@DXFEED,350.00,Put Wall 350.00,#ffffff,#00AA00,left,3,TRUE
 AVGO@DXFEED,400.00,Call Wall/Key Delta Strike 400.00,#ffffff,#FF0000,left,3,TRUE
 AVGO@DXFEED,360.00,Key Gamma Strike 360.00,#ffffff,#FF8C00,left,3,TRUE
-COIN@DXFEED,188.80,Day High 188.80,#ffffff,#FF0000,left,3,TRUE
+COIN@DXFEED,188.93,Day High 188.93,#ffffff,#FF0000,left,3,TRUE
 COIN@DXFEED,174.73,Day Low 174.73,#ffffff,#00AA00,left,3,TRUE
 COIN@DXFEED,191.84,Prev Day High 191.84,#ffffff,#CC0000,left,3,TRUE
 COIN@DXFEED,178.52,Prev Day Low 178.52,#ffffff,#008800,left,3,TRUE
@@ -57,7 +57,7 @@ DKS@DXFEED,126.20,Day Low 126.20,#ffffff,#00AA00,left,3,TRUE
 DKS@DXFEED,185.63,Prev Day High 185.63,#ffffff,#CC0000,left,3,TRUE
 DKS@DXFEED,175.65,Prev Day Low 175.65,#ffffff,#008800,left,3,TRUE
 DKS@DXFEED,105.00,Put Wall 105.00,#ffffff,#00AA00,left,3,TRUE
-DKS@DXFEED,180.00,Call Wall 180.00,#ffffff,#FF0000,left,3,TRUE
+DKS@DXFEED,190.00,Call Wall 190.00,#ffffff,#FF0000,left,3,TRUE
 DKS@DXFEED,160.00,Key Gamma Strike/Key Delta Strike 160.00,#ffffff,#FF8C00,left,3,TRUE
 GOOGL@DXFEED,350.16,Day High 350.16,#ffffff,#FF0000,left,3,TRUE
 GOOGL@DXFEED,345.62,Day Low 345.62,#ffffff,#00AA00,left,3,TRUE
@@ -135,7 +135,7 @@ MU@DXFEED,936.45,Prev Day High 936.45,#ffffff,#CC0000,left,3,TRUE
 MU@DXFEED,887.61,Prev Day Low 887.61,#ffffff,#008800,left,3,TRUE
 MU@DXFEED,900.00,Put Wall/Key Gamma Strike/Key Delta Strike 900.00,#ffffff,#00AA00,left,3,TRUE
 MU@DXFEED,1000.00,Call Wall 1000.00,#ffffff,#FF0000,left,3,TRUE
-NBIS@DXFEED,221.12,Day High 221.12,#ffffff,#FF0000,left,3,TRUE
+NBIS@DXFEED,221.50,Day High 221.50,#ffffff,#FF0000,left,3,TRUE
 NBIS@DXFEED,213.55,Day Low 213.55,#ffffff,#00AA00,left,3,TRUE
 NBIS@DXFEED,213.75,Prev Day High 213.75,#ffffff,#CC0000,left,3,TRUE
 NBIS@DXFEED,201.89,Prev Day Low 201.89,#ffffff,#008800,left,3,TRUE
@@ -155,7 +155,7 @@ PG@DXFEED,140.00,Put Wall 140.00,#ffffff,#00AA00,left,3,TRUE
 PG@DXFEED,155.00,Call Wall 155.00,#ffffff,#FF0000,left,3,TRUE
 PG@DXFEED,150.00,Key Delta Strike 150.00,#ffffff,#0000FF,left,3,TRUE
 PLTR@DXFEED,179.87,Day High 179.87,#ffffff,#FF0000,left,3,TRUE
-PLTR@DXFEED,172.82,Day Low 172.82,#ffffff,#00AA00,left,3,TRUE
+PLTR@DXFEED,172.81,Day Low 172.81,#ffffff,#00AA00,left,3,TRUE
 PLTR@DXFEED,178.75,Prev Day High 178.75,#ffffff,#CC0000,left,3,TRUE
 PLTR@DXFEED,171.31,Prev Day Low 171.31,#ffffff,#008800,left,3,TRUE
 PLTR@DXFEED,170.00,Put Wall 170.00,#ffffff,#00AA00,left,3,TRUE
@@ -221,11 +221,9 @@ SPY@DXFEED,763.05,Day Low 763.05,#ffffff,#00AA00,left,3,TRUE
 SPY@DXFEED,765.22,Prev Day High 765.22,#ffffff,#CC0000,left,3,TRUE
 SPY@DXFEED,762.08,Prev Day Low 762.08,#ffffff,#008800,left,3,TRUE
 SPY@DXFEED,760.00,Put Wall 760.00,#ffffff,#00AA00,left,3,TRUE
-SPY@DXFEED,770.00,Call Wall 770.00,#ffffff,#FF0000,left,3,TRUE
-SPY@DXFEED,765.00,Key Gamma Strike/0DTE Most Positive Net Gamma 765.00,#ffffff,#FF8C00,left,3,TRUE
+SPY@DXFEED,765.00,Call Wall/Key Gamma Strike/0DTE Call Wall/0DTE Most Positive Net Gamma 765.00,#ffffff,#FF0000,left,3,TRUE
 SPY@DXFEED,750.00,Key Delta Strike 750.00,#ffffff,#0000FF,left,3,TRUE
 SPY@DXFEED,764.00,0DTE Put Wall 764.00,#ffffff,#00AA00,left,3,TRUE
-SPY@DXFEED,766.00,0DTE Call Wall 766.00,#ffffff,#FF0000,left,3,TRUE
 SPY@DXFEED,762.00,0DTE Most Negative Net Gamma 762.00,#ffffff,#FF8C00,left,3,TRUE
 SQQQ@DXFEED,40.02,Day High 40.02,#ffffff,#FF0000,left,3,TRUE
 SQQQ@DXFEED,38.89,Day Low 38.89,#ffffff,#00AA00,left,3,TRUE
