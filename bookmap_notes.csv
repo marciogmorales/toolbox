@@ -57,7 +57,7 @@ GOOGL@DXFEED,351.60,Prev Day High 351.60,#ffffff,#CC0000,left,3,TRUE
 GOOGL@DXFEED,342.49,Prev Day Low 342.49,#ffffff,#008800,left,3,TRUE
 GOOGL@DXFEED,330.00,Put Wall 330.00,#ffffff,#00AA00,left,3,TRUE
 GOOGL@DXFEED,350.00,Call Wall/Key Gamma Strike/Key Delta Strike 350.00,#ffffff,#FF0000,left,3,TRUE
-HOOD@DXFEED,111.69,Day High 111.69,#ffffff,#FF0000,left,3,TRUE
+HOOD@DXFEED,111.70,Day High 111.70,#ffffff,#FF0000,left,3,TRUE
 HOOD@DXFEED,102.80,Day Low 102.80,#ffffff,#00AA00,left,3,TRUE
 HOOD@DXFEED,109.13,Prev Day High 109.13,#ffffff,#CC0000,left,3,TRUE
 HOOD@DXFEED,103.14,Prev Day Low 103.14,#ffffff,#008800,left,3,TRUE
@@ -150,7 +150,8 @@ QQQ@DXFEED,702.70,Prev Day Low 702.70,#ffffff,#008800,left,3,TRUE
 QQQ@DXFEED,700.00,Put Wall/Key Gamma Strike/Key Delta Strike 700.00,#ffffff,#00AA00,left,3,TRUE
 QQQ@DXFEED,730.00,Call Wall 730.00,#ffffff,#FF0000,left,3,TRUE
 QQQ@DXFEED,706.00,0DTE Put Wall/0DTE Most Negative Net Gamma 706.00,#ffffff,#00AA00,left,3,TRUE
-QQQ@DXFEED,712.00,0DTE Call Wall/0DTE Most Positive Net Gamma 712.00,#ffffff,#FF0000,left,3,TRUE
+QQQ@DXFEED,712.00,0DTE Call Wall 712.00,#ffffff,#FF0000,left,3,TRUE
+QQQ@DXFEED,710.00,0DTE Most Positive Net Gamma 710.00,#ffffff,#0000FF,left,3,TRUE
 RITR@DXFEED,0.09,Day High 0.09,#ffffff,#FF0000,left,3,TRUE
 RITR@DXFEED,0.08,Day Low 0.08,#ffffff,#00AA00,left,3,TRUE
 RITR@DXFEED,0.13,Prev Day High 0.13,#ffffff,#CC0000,left,3,TRUE
@@ -159,9 +160,9 @@ SMH@DXFEED,560.38,Day High 560.38,#ffffff,#FF0000,left,3,TRUE
 SMH@DXFEED,550.66,Day Low 550.66,#ffffff,#00AA00,left,3,TRUE
 SMH@DXFEED,554.17,Prev Day High 554.17,#ffffff,#CC0000,left,3,TRUE
 SMH@DXFEED,540.75,Prev Day Low 540.75,#ffffff,#008800,left,3,TRUE
-SMH@DXFEED,545.00,Put Wall/Key Gamma Strike 545.00,#ffffff,#00AA00,left,3,TRUE
+SMH@DXFEED,545.00,Put Wall 545.00,#ffffff,#00AA00,left,3,TRUE
 SMH@DXFEED,600.00,Call Wall 600.00,#ffffff,#FF0000,left,3,TRUE
-SMH@DXFEED,550.00,Key Delta Strike/0DTE Put Wall 550.00,#ffffff,#0000FF,left,3,TRUE
+SMH@DXFEED,550.00,Key Gamma Strike/Key Delta Strike/0DTE Put Wall 550.00,#ffffff,#FF8C00,left,3,TRUE
 SMH@DXFEED,560.00,0DTE Call Wall/0DTE Most Positive Net Gamma 560.00,#ffffff,#FF0000,left,3,TRUE
 SMH@DXFEED,552.50,0DTE Most Negative Net Gamma 552.50,#ffffff,#FF8C00,left,3,TRUE
 SNDK@DXFEED,1564.99,Day High 1564.99,#ffffff,#FF0000,left,3,TRUE
@@ -183,6 +184,10 @@ SOXS@DXFEED,52.81,Prev Day High 52.81,#ffffff,#CC0000,left,3,TRUE
 SOXS@DXFEED,49.13,Prev Day Low 49.13,#ffffff,#008800,left,3,TRUE
 SOXS@DXFEED,45.00,Put Wall 45.00,#ffffff,#00AA00,left,3,TRUE
 SOXS@DXFEED,50.00,Call Wall/Key Gamma Strike/Key Delta Strike 50.00,#ffffff,#FF0000,left,3,TRUE
+SOXX@DXFEED,520.10,Day High 520.10,#ffffff,#FF0000,left,3,TRUE
+SOXX@DXFEED,509.66,Day Low 509.66,#ffffff,#00AA00,left,3,TRUE
+SOXX@DXFEED,512.11,Prev Day High 512.11,#ffffff,#CC0000,left,3,TRUE
+SOXX@DXFEED,498.93,Prev Day Low 498.93,#ffffff,#008800,left,3,TRUE
 SPCX@DXFEED,139.75,Day High 139.75,#ffffff,#FF0000,left,3,TRUE
 SPCX@DXFEED,136.10,Day Low 136.10,#ffffff,#00AA00,left,3,TRUE
 SPCX@DXFEED,138.33,Prev Day High 138.33,#ffffff,#CC0000,left,3,TRUE
@@ -198,12 +203,11 @@ SPY@DXFEED,765.22,Prev Day High 765.22,#ffffff,#CC0000,left,3,TRUE
 SPY@DXFEED,762.08,Prev Day Low 762.08,#ffffff,#008800,left,3,TRUE
 SPY@DXFEED,760.00,Put Wall 760.00,#ffffff,#00AA00,left,3,TRUE
 SPY@DXFEED,770.00,Call Wall 770.00,#ffffff,#FF0000,left,3,TRUE
-SPY@DXFEED,765.00,Key Gamma Strike 765.00,#ffffff,#FF8C00,left,3,TRUE
+SPY@DXFEED,765.00,Key Gamma Strike/0DTE Most Positive Net Gamma 765.00,#ffffff,#FF8C00,left,3,TRUE
 SPY@DXFEED,750.00,Key Delta Strike 750.00,#ffffff,#0000FF,left,3,TRUE
 SPY@DXFEED,764.00,0DTE Put Wall 764.00,#ffffff,#00AA00,left,3,TRUE
 SPY@DXFEED,766.00,0DTE Call Wall 766.00,#ffffff,#FF0000,left,3,TRUE
 SPY@DXFEED,762.00,0DTE Most Negative Net Gamma 762.00,#ffffff,#FF8C00,left,3,TRUE
-SPY@DXFEED,767.00,0DTE Most Positive Net Gamma 767.00,#ffffff,#0000FF,left,3,TRUE
 SQQQ@DXFEED,40.02,Day High 40.02,#ffffff,#FF0000,left,3,TRUE
 SQQQ@DXFEED,38.89,Day Low 38.89,#ffffff,#00AA00,left,3,TRUE
 SQQQ@DXFEED,40.79,Prev Day High 40.79,#ffffff,#CC0000,left,3,TRUE
