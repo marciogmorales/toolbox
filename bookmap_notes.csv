@@ -121,9 +121,9 @@ GLD@DXFEED,403.33,Day High 403.33,#ffffff,#FF0000,left,3,TRUE
 GLD@DXFEED,399.58,Day Low 399.58,#ffffff,#00AA00,left,3,TRUE
 GLD@DXFEED,401.25,Prev Day High 401.25,#ffffff,#CC0000,left,3,TRUE
 GLD@DXFEED,396.45,Prev Day Low 396.45,#ffffff,#008800,left,3,TRUE
-GLD@DXFEED,400.00,Put Wall/Key Gamma Strike/Key Delta Strike 400.00,#ffffff,#00AA00,left,3,TRUE
+GLD@DXFEED,400.00,Put Wall/Key Gamma Strike/Key Delta Strike/0DTE Most Negative Net Gamma 400.00,#ffffff,#00AA00,left,3,TRUE
 GLD@DXFEED,430.00,Call Wall 430.00,#ffffff,#FF0000,left,3,TRUE
-GLD@DXFEED,397.00,0DTE Put Wall/0DTE Most Negative Net Gamma 397.00,#ffffff,#00AA00,left,3,TRUE
+GLD@DXFEED,397.00,0DTE Put Wall 397.00,#ffffff,#00AA00,left,3,TRUE
 GLD@DXFEED,403.00,0DTE Call Wall/0DTE Most Positive Net Gamma 403.00,#ffffff,#FF0000,left,3,TRUE
 GOOGL@DXFEED,340.00,Day High/Call Wall/Key Gamma Strike/0DTE Call Wall/0DTE Most Positive Net Gamma 340.00,#ffffff,#FF0000,left,3,TRUE
 GOOGL@DXFEED,332.82,Day Low 332.82,#ffffff,#00AA00,left,3,TRUE
@@ -157,10 +157,11 @@ INTC@DXFEED,90.43,Day High 90.43,#ffffff,#FF0000,left,3,TRUE
 INTC@DXFEED,87.50,Day Low 87.50,#ffffff,#00AA00,left,3,TRUE
 INTC@DXFEED,89.41,Prev Day High 89.41,#ffffff,#CC0000,left,3,TRUE
 INTC@DXFEED,85.72,Prev Day Low 85.72,#ffffff,#008800,left,3,TRUE
-INTC@DXFEED,90.00,Put Wall/Key Gamma Strike/0DTE Put Wall/0DTE Most Negative Net Gamma 90.00,#ffffff,#00AA00,left,3,TRUE
+INTC@DXFEED,90.00,Put Wall/Key Gamma Strike/0DTE Put Wall/0DTE Most Positive Net Gamma 90.00,#ffffff,#00AA00,left,3,TRUE
 INTC@DXFEED,100.00,Call Wall 100.00,#ffffff,#FF0000,left,3,TRUE
 INTC@DXFEED,70.00,Key Delta Strike 70.00,#ffffff,#0000FF,left,3,TRUE
-INTC@DXFEED,91.00,0DTE Call Wall/0DTE Most Positive Net Gamma 91.00,#ffffff,#FF0000,left,3,TRUE
+INTC@DXFEED,91.00,0DTE Call Wall 91.00,#ffffff,#FF0000,left,3,TRUE
+INTC@DXFEED,89.00,0DTE Most Negative Net Gamma 89.00,#ffffff,#FF8C00,left,3,TRUE
 INTU@DXFEED,348.40,Day High 348.40,#ffffff,#FF0000,left,3,TRUE
 INTU@DXFEED,339.32,Day Low 339.32,#ffffff,#00AA00,left,3,TRUE
 INTU@DXFEED,357.20,Prev Day High 357.20,#ffffff,#CC0000,left,3,TRUE
@@ -383,11 +384,11 @@ SPY@DXFEED,766.43,Day High 766.43,#ffffff,#FF0000,left,3,TRUE
 SPY@DXFEED,761.73,Day Low 761.73,#ffffff,#00AA00,left,3,TRUE
 SPY@DXFEED,764.67,Prev Day High 764.67,#ffffff,#CC0000,left,3,TRUE
 SPY@DXFEED,759.48,Prev Day Low 759.48,#ffffff,#008800,left,3,TRUE
-SPY@DXFEED,760.00,Put Wall 760.00,#ffffff,#00AA00,left,3,TRUE
+SPY@DXFEED,765.00,Put Wall/Key Gamma Strike/0DTE Put Wall 765.00,#ffffff,#00AA00,left,3,TRUE
 SPY@DXFEED,770.00,Call Wall 770.00,#ffffff,#FF0000,left,3,TRUE
-SPY@DXFEED,765.00,Key Gamma Strike/0DTE Put Wall/0DTE Most Positive Net Gamma 765.00,#ffffff,#FF8C00,left,3,TRUE
 SPY@DXFEED,750.00,Key Delta Strike 750.00,#ffffff,#0000FF,left,3,TRUE
-SPY@DXFEED,766.00,0DTE Call Wall/0DTE Most Negative Net Gamma 766.00,#ffffff,#FF0000,left,3,TRUE
+SPY@DXFEED,766.00,0DTE Call Wall/0DTE Most Positive Net Gamma 766.00,#ffffff,#FF0000,left,3,TRUE
+SPY@DXFEED,759.00,0DTE Most Negative Net Gamma 759.00,#ffffff,#FF8C00,left,3,TRUE
 SQQQ@DXFEED,40.43,Day High 40.43,#ffffff,#FF0000,left,3,TRUE
 SQQQ@DXFEED,39.63,Day Low 39.63,#ffffff,#00AA00,left,3,TRUE
 SQQQ@DXFEED,40.47,Prev Day High 40.47,#ffffff,#CC0000,left,3,TRUE
@@ -415,9 +416,8 @@ TSLA@DXFEED,362.70,Prev Day High 362.70,#ffffff,#CC0000,left,3,TRUE
 TSLA@DXFEED,352.96,Prev Day Low 352.96,#ffffff,#008800,left,3,TRUE
 TSLA@DXFEED,350.00,Put Wall 350.00,#ffffff,#00AA00,left,3,TRUE
 TSLA@DXFEED,400.00,Call Wall/Key Delta Strike 400.00,#ffffff,#FF0000,left,3,TRUE
-TSLA@DXFEED,360.00,Key Gamma Strike 360.00,#ffffff,#FF8C00,left,3,TRUE
+TSLA@DXFEED,357.50,Key Gamma Strike/0DTE Call Wall/0DTE Most Positive Net Gamma 357.50,#ffffff,#FF8C00,left,3,TRUE
 TSLA@DXFEED,355.00,0DTE Put Wall/0DTE Most Negative Net Gamma 355.00,#ffffff,#00AA00,left,3,TRUE
-TSLA@DXFEED,357.50,0DTE Call Wall/0DTE Most Positive Net Gamma 357.50,#ffffff,#FF0000,left,3,TRUE
 ULTA@DXFEED,559.76,Day High 559.76,#ffffff,#FF0000,left,3,TRUE
 ULTA@DXFEED,545.01,Day Low 545.01,#ffffff,#00AA00,left,3,TRUE
 ULTA@DXFEED,551.96,Prev Day High 551.96,#ffffff,#CC0000,left,3,TRUE
