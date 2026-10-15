@@ -131,10 +131,10 @@ INTC@DXFEED,97.67,Day Low 97.67,#ffffff,#00AA00,left,3,TRUE
 INTC@DXFEED,102.88,Prev Day High 102.88,#ffffff,#CC0000,left,3,TRUE
 INTC@DXFEED,98.22,Prev Day Low 98.22,#ffffff,#008800,left,3,TRUE
 INTC@DXFEED,95.00,Put Wall 95.00,#ffffff,#00AA00,left,3,TRUE
-INTC@DXFEED,100.00,Call Wall/Key Gamma Strike/0DTE Call Wall/0DTE Most Positive Net Gamma 100.00,#ffffff,#FF0000,left,3,TRUE
+INTC@DXFEED,100.00,Call Wall/Key Gamma Strike 100.00,#ffffff,#FF0000,left,3,TRUE
 INTC@DXFEED,70.00,Key Delta Strike 70.00,#ffffff,#0000FF,left,3,TRUE
-INTC@DXFEED,98.00,0DTE Put Wall 98.00,#ffffff,#00AA00,left,3,TRUE
-INTC@DXFEED,99.00,0DTE Most Negative Net Gamma 99.00,#ffffff,#FF8C00,left,3,TRUE
+INTC@DXFEED,60.00,0DTE Put Wall/0DTE Most Negative Net Gamma/0DTE Most Positive Net Gamma 60.00,#ffffff,#00AA00,left,3,TRUE
+INTC@DXFEED,96.00,0DTE Call Wall 96.00,#ffffff,#FF0000,left,3,TRUE
 INTU@DXFEED,340.00,Put Wall/Key Gamma Strike 340.00,#ffffff,#00AA00,left,3,TRUE
 INTU@DXFEED,390.00,Call Wall 390.00,#ffffff,#FF0000,left,3,TRUE
 INTU@DXFEED,300.00,Key Delta Strike 300.00,#ffffff,#0000FF,left,3,TRUE
@@ -267,8 +267,8 @@ SMCI@DXFEED,38.02,Day High 38.02,#ffffff,#FF0000,left,3,TRUE
 SMCI@DXFEED,35.63,Day Low 35.63,#ffffff,#00AA00,left,3,TRUE
 SMCI@DXFEED,39.48,Prev Day High 39.48,#ffffff,#CC0000,left,3,TRUE
 SMCI@DXFEED,38.49,Prev Day Low 38.49,#ffffff,#008800,left,3,TRUE
-SMCI@DXFEED,35.00,Put Wall 35.00,#ffffff,#00AA00,left,3,TRUE
-SMCI@DXFEED,40.00,Call Wall/Key Gamma Strike/Key Delta Strike 40.00,#ffffff,#FF0000,left,3,TRUE
+SMCI@DXFEED,35.00,Put Wall/Key Gamma Strike 35.00,#ffffff,#00AA00,left,3,TRUE
+SMCI@DXFEED,40.00,Call Wall/Key Delta Strike 40.00,#ffffff,#FF0000,left,3,TRUE
 SMR@DXFEED,9.00,Put Wall 9.00,#ffffff,#00AA00,left,3,TRUE
 SMR@DXFEED,10.00,Call Wall/Key Gamma Strike/Key Delta Strike 10.00,#ffffff,#FF0000,left,3,TRUE
 SNDK@DXFEED,1461.80,Day High 1461.80,#ffffff,#FF0000,left,3,TRUE
