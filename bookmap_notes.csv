@@ -20,8 +20,8 @@ AMD@DXFEED,575.10,Day High 575.10,#ffffff,#FF0000,left,3,TRUE
 AMD@DXFEED,560.57,Day Low 560.57,#ffffff,#00AA00,left,3,TRUE
 AMD@DXFEED,579.18,Prev Day High 579.18,#ffffff,#CC0000,left,3,TRUE
 AMD@DXFEED,560.52,Prev Day Low 560.52,#ffffff,#008800,left,3,TRUE
-AMD@DXFEED,550.00,Put Wall 550.00,#ffffff,#00AA00,left,3,TRUE
-AMD@DXFEED,600.00,Call Wall/Key Gamma Strike/Key Delta Strike 600.00,#ffffff,#FF0000,left,3,TRUE
+AMD@DXFEED,550.00,Put Wall/Key Gamma Strike 550.00,#ffffff,#00AA00,left,3,TRUE
+AMD@DXFEED,600.00,Call Wall/Key Delta Strike 600.00,#ffffff,#FF0000,left,3,TRUE
 AMZN@DXFEED,249.14,Day High 249.14,#ffffff,#FF0000,left,3,TRUE
 AMZN@DXFEED,241.24,Day Low 241.24,#ffffff,#00AA00,left,3,TRUE
 AMZN@DXFEED,255.36,Prev Day High 255.36,#ffffff,#CC0000,left,3,TRUE
@@ -73,8 +73,8 @@ CRWV@DXFEED,64.39,Day High 64.39,#ffffff,#FF0000,left,3,TRUE
 CRWV@DXFEED,60.11,Day Low 60.11,#ffffff,#00AA00,left,3,TRUE
 CRWV@DXFEED,64.02,Prev Day High 64.02,#ffffff,#CC0000,left,3,TRUE
 CRWV@DXFEED,58.55,Prev Day Low 58.55,#ffffff,#008800,left,3,TRUE
-CRWV@DXFEED,60.00,Put Wall/Key Delta Strike 60.00,#ffffff,#00AA00,left,3,TRUE
-CRWV@DXFEED,65.00,Call Wall/Key Gamma Strike 65.00,#ffffff,#FF0000,left,3,TRUE
+CRWV@DXFEED,60.00,Put Wall/Key Gamma Strike/Key Delta Strike 60.00,#ffffff,#00AA00,left,3,TRUE
+CRWV@DXFEED,65.00,Call Wall 65.00,#ffffff,#FF0000,left,3,TRUE
 DELL@DXFEED,493.50,Day High 493.50,#ffffff,#FF0000,left,3,TRUE
 DELL@DXFEED,479.47,Day Low 479.47,#ffffff,#00AA00,left,3,TRUE
 DELL@DXFEED,507.00,Prev Day High 507.00,#ffffff,#CC0000,left,3,TRUE
@@ -183,7 +183,8 @@ MSFT@DXFEED,519.56,Day Low 519.56,#ffffff,#00AA00,left,3,TRUE
 MSFT@DXFEED,535.00,Prev Day High 535.00,#ffffff,#CC0000,left,3,TRUE
 MSFT@DXFEED,526.13,Prev Day Low 526.13,#ffffff,#008800,left,3,TRUE
 MSFT@DXFEED,500.00,Put Wall/Key Delta Strike 500.00,#ffffff,#00AA00,left,3,TRUE
-MSFT@DXFEED,525.00,Call Wall/Key Gamma Strike 525.00,#ffffff,#FF0000,left,3,TRUE
+MSFT@DXFEED,575.00,Call Wall 575.00,#ffffff,#FF0000,left,3,TRUE
+MSFT@DXFEED,525.00,Key Gamma Strike 525.00,#ffffff,#FF8C00,left,3,TRUE
 MSTR@DXFEED,144.76,Day High 144.76,#ffffff,#FF0000,left,3,TRUE
 MSTR@DXFEED,138.88,Day Low 138.88,#ffffff,#00AA00,left,3,TRUE
 MSTR@DXFEED,145.30,Prev Day High 145.30,#ffffff,#CC0000,left,3,TRUE
