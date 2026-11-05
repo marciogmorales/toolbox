@@ -203,7 +203,7 @@ NBIS@DXFEED,150.00,Key Gamma Strike 150.00,#ffffff,#FF8C00,left,3,TRUE
 NIO@DXFEED,3.50,Put Wall/0DTE Put Wall/0DTE Most Negative Net Gamma 3.50,#ffffff,#00AA00,left,3,TRUE
 NIO@DXFEED,4.00,Call Wall/Key Gamma Strike/Key Delta Strike/0DTE Call Wall/0DTE Most Positive Net Gamma 4.00,#ffffff,#FF0000,left,3,TRUE
 NOW@DXFEED,108.70,Day High 108.70,#ffffff,#FF0000,left,3,TRUE
-NOW@DXFEED,102.73,Day Low 102.73,#ffffff,#00AA00,left,3,TRUE
+NOW@DXFEED,102.58,Day Low 102.58,#ffffff,#00AA00,left,3,TRUE
 NOW@DXFEED,112.35,Prev Day High 112.35,#ffffff,#CC0000,left,3,TRUE
 NOW@DXFEED,108.31,Prev Day Low 108.31,#ffffff,#008800,left,3,TRUE
 NOW@DXFEED,105.00,Put Wall 105.00,#ffffff,#00AA00,left,3,TRUE
@@ -245,9 +245,8 @@ QQQ@DXFEED,647.12,Day Low 647.12,#ffffff,#00AA00,left,3,TRUE
 QQQ@DXFEED,701.45,Prev Day High 701.45,#ffffff,#CC0000,left,3,TRUE
 QQQ@DXFEED,687.87,Prev Day Low 687.87,#ffffff,#008800,left,3,TRUE
 QQQ@DXFEED,650.00,Put Wall/0DTE Put Wall/0DTE Most Negative Net Gamma 650.00,#ffffff,#00AA00,left,3,TRUE
-QQQ@DXFEED,700.00,Call Wall/0DTE Call Wall 700.00,#ffffff,#FF0000,left,3,TRUE
+QQQ@DXFEED,700.00,Call Wall/0DTE Call Wall/0DTE Most Positive Net Gamma 700.00,#ffffff,#FF0000,left,3,TRUE
 QQQ@DXFEED,680.00,Key Gamma Strike/Key Delta Strike 680.00,#ffffff,#FF8C00,left,3,TRUE
-QQQ@DXFEED,720.00,0DTE Most Positive Net Gamma 720.00,#ffffff,#0000FF,left,3,TRUE
 RDDT@DXFEED,150.00,Put Wall/Key Gamma Strike/Key Delta Strike 150.00,#ffffff,#00AA00,left,3,TRUE
 RDDT@DXFEED,160.00,Call Wall 160.00,#ffffff,#FF0000,left,3,TRUE
 RKLB@DXFEED,50.00,Put Wall/Key Gamma Strike/0DTE Put Wall/0DTE Most Negative Net Gamma 50.00,#ffffff,#00AA00,left,3,TRUE
@@ -263,8 +262,8 @@ SNDK@DXFEED,967.99,Day High 967.99,#ffffff,#FF0000,left,3,TRUE
 SNDK@DXFEED,806.52,Day Low 806.52,#ffffff,#00AA00,left,3,TRUE
 SNDK@DXFEED,1120.22,Prev Day High 1120.22,#ffffff,#CC0000,left,3,TRUE
 SNDK@DXFEED,1014.00,Prev Day Low 1014.00,#ffffff,#008800,left,3,TRUE
-SNDK@DXFEED,800.00,Put Wall 800.00,#ffffff,#00AA00,left,3,TRUE
-SNDK@DXFEED,1000.00,Call Wall/Key Gamma Strike/Key Delta Strike 1000.00,#ffffff,#FF0000,left,3,TRUE
+SNDK@DXFEED,800.00,Put Wall/Key Gamma Strike 800.00,#ffffff,#00AA00,left,3,TRUE
+SNDK@DXFEED,1000.00,Call Wall/Key Delta Strike 1000.00,#ffffff,#FF0000,left,3,TRUE
 SOFI@DXFEED,15.00,Put Wall/Key Delta Strike 15.00,#ffffff,#00AA00,left,3,TRUE
 SOFI@DXFEED,20.00,Call Wall 20.00,#ffffff,#FF0000,left,3,TRUE
 SOFI@DXFEED,16.00,Key Gamma Strike 16.00,#ffffff,#FF8C00,left,3,TRUE
