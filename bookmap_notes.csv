@@ -4,8 +4,8 @@ AAL@DXFEED,15.00,Call Wall/Key Gamma Strike/Key Delta Strike 15.00,#ffffff,#FF00
 AAPL@DXFEED,0.00,Day High/Day Low 0.00,#ffffff,#FF0000,left,3,TRUE
 AAPL@DXFEED,355.38,Prev Day High 355.38,#ffffff,#CC0000,left,3,TRUE
 AAPL@DXFEED,342.06,Prev Day Low 342.06,#ffffff,#008800,left,3,TRUE
-AAPL@DXFEED,340.00,Put Wall/0DTE Put Wall/0DTE Most Negative Net Gamma 340.00,#ffffff,#00AA00,left,3,TRUE
-AAPL@DXFEED,350.00,Call Wall/Key Gamma Strike/0DTE Call Wall/0DTE Most Positive Net Gamma 350.00,#ffffff,#FF0000,left,3,TRUE
+AAPL@DXFEED,340.00,Put Wall/Key Gamma Strike/0DTE Put Wall/0DTE Most Negative Net Gamma 340.00,#ffffff,#00AA00,left,3,TRUE
+AAPL@DXFEED,350.00,Call Wall/0DTE Call Wall/0DTE Most Positive Net Gamma 350.00,#ffffff,#FF0000,left,3,TRUE
 AAPL@DXFEED,300.00,Key Delta Strike 300.00,#ffffff,#0000FF,left,3,TRUE
 ADBE@DXFEED,220.00,Put Wall/Key Gamma Strike 220.00,#ffffff,#00AA00,left,3,TRUE
 ADBE@DXFEED,240.00,Call Wall 240.00,#ffffff,#FF0000,left,3,TRUE
@@ -104,7 +104,7 @@ GOOGL@DXFEED,295.60,Prev Day High 295.60,#ffffff,#CC0000,left,3,TRUE
 GOOGL@DXFEED,277.07,Prev Day Low 277.07,#ffffff,#008800,left,3,TRUE
 GOOGL@DXFEED,280.00,Put Wall/0DTE Put Wall 280.00,#ffffff,#00AA00,left,3,TRUE
 GOOGL@DXFEED,300.00,Call Wall/Key Gamma Strike/Key Delta Strike 300.00,#ffffff,#FF0000,left,3,TRUE
-GOOGL@DXFEED,290.00,0DTE Call Wall/0DTE Most Positive Net Gamma 290.00,#ffffff,#FF0000,left,3,TRUE
+GOOGL@DXFEED,285.00,0DTE Call Wall/0DTE Most Positive Net Gamma 285.00,#ffffff,#FF0000,left,3,TRUE
 GOOGL@DXFEED,275.00,0DTE Most Negative Net Gamma 275.00,#ffffff,#FF8C00,left,3,TRUE
 HIMS@DXFEED,25.00,Put Wall 25.00,#ffffff,#00AA00,left,3,TRUE
 HIMS@DXFEED,30.00,Call Wall/Key Gamma Strike/Key Delta Strike 30.00,#ffffff,#FF0000,left,3,TRUE
@@ -146,11 +146,11 @@ JPM@DXFEED,350.00,Call Wall 350.00,#ffffff,#FF0000,left,3,TRUE
 LLY@DXFEED,0.00,Day High/Day Low 0.00,#ffffff,#FF0000,left,3,TRUE
 LLY@DXFEED,1453.00,Prev Day High 1453.00,#ffffff,#CC0000,left,3,TRUE
 LLY@DXFEED,1364.73,Prev Day Low 1364.73,#ffffff,#008800,left,3,TRUE
-LLY@DXFEED,1300.00,Put Wall/Key Gamma Strike/Key Delta Strike 1300.00,#ffffff,#00AA00,left,3,TRUE
-LLY@DXFEED,1400.00,Call Wall/0DTE Most Positive Net Gamma 1400.00,#ffffff,#FF0000,left,3,TRUE
-LLY@DXFEED,1340.00,0DTE Put Wall 1340.00,#ffffff,#00AA00,left,3,TRUE
-LLY@DXFEED,1360.00,0DTE Call Wall 1360.00,#ffffff,#FF0000,left,3,TRUE
-LLY@DXFEED,1350.00,0DTE Most Negative Net Gamma 1350.00,#ffffff,#FF8C00,left,3,TRUE
+LLY@DXFEED,1340.00,Put Wall 1340.00,#ffffff,#00AA00,left,3,TRUE
+LLY@DXFEED,1400.00,Call Wall 1400.00,#ffffff,#FF0000,left,3,TRUE
+LLY@DXFEED,1300.00,Key Gamma Strike/Key Delta Strike 1300.00,#ffffff,#FF8C00,left,3,TRUE
+LLY@DXFEED,1350.00,0DTE Put Wall/0DTE Most Negative Net Gamma 1350.00,#ffffff,#00AA00,left,3,TRUE
+LLY@DXFEED,1360.00,0DTE Call Wall/0DTE Most Positive Net Gamma 1360.00,#ffffff,#FF0000,left,3,TRUE
 LULU@DXFEED,110.00,Put Wall 110.00,#ffffff,#00AA00,left,3,TRUE
 LULU@DXFEED,130.00,Call Wall 130.00,#ffffff,#FF0000,left,3,TRUE
 LULU@DXFEED,120.00,Key Gamma Strike/Key Delta Strike 120.00,#ffffff,#FF8C00,left,3,TRUE
@@ -171,7 +171,8 @@ MSFT@DXFEED,557.62,Prev Day High 557.62,#ffffff,#CC0000,left,3,TRUE
 MSFT@DXFEED,532.67,Prev Day Low 532.67,#ffffff,#008800,left,3,TRUE
 MSFT@DXFEED,500.00,Put Wall/Key Delta Strike/0DTE Put Wall/0DTE Most Negative Net Gamma 500.00,#ffffff,#00AA00,left,3,TRUE
 MSFT@DXFEED,575.00,Call Wall/Key Gamma Strike 575.00,#ffffff,#FF0000,left,3,TRUE
-MSFT@DXFEED,540.00,0DTE Call Wall/0DTE Most Positive Net Gamma 540.00,#ffffff,#FF0000,left,3,TRUE
+MSFT@DXFEED,540.00,0DTE Call Wall 540.00,#ffffff,#FF0000,left,3,TRUE
+MSFT@DXFEED,530.00,0DTE Most Positive Net Gamma 530.00,#ffffff,#0000FF,left,3,TRUE
 MSTR@DXFEED,0.00,Day High/Day Low 0.00,#ffffff,#FF0000,left,3,TRUE
 MSTR@DXFEED,141.17,Prev Day High 141.17,#ffffff,#CC0000,left,3,TRUE
 MSTR@DXFEED,123.89,Prev Day Low 123.89,#ffffff,#008800,left,3,TRUE
@@ -179,12 +180,11 @@ MSTR@DXFEED,125.00,Put Wall 125.00,#ffffff,#00AA00,left,3,TRUE
 MSTR@DXFEED,135.00,Call Wall/Key Gamma Strike/Key Delta Strike 135.00,#ffffff,#FF0000,left,3,TRUE
 MU@DXFEED,0.00,Day High/Day Low 0.00,#ffffff,#FF0000,left,3,TRUE
 MU@DXFEED,761.81,Prev Day High 761.81,#ffffff,#CC0000,left,3,TRUE
-MU@DXFEED,650.00,Prev Day Low 650.00,#ffffff,#008800,left,3,TRUE
-MU@DXFEED,700.00,Put Wall/Key Gamma Strike/0DTE Put Wall 700.00,#ffffff,#00AA00,left,3,TRUE
-MU@DXFEED,800.00,Call Wall/Key Delta Strike 800.00,#ffffff,#FF0000,left,3,TRUE
-MU@DXFEED,750.00,0DTE Call Wall 750.00,#ffffff,#FF0000,left,3,TRUE
-MU@DXFEED,680.00,0DTE Most Negative Net Gamma 680.00,#ffffff,#FF8C00,left,3,TRUE
-MU@DXFEED,720.00,0DTE Most Positive Net Gamma 720.00,#ffffff,#0000FF,left,3,TRUE
+MU@DXFEED,650.00,Prev Day Low/Put Wall 650.00,#ffffff,#008800,left,3,TRUE
+MU@DXFEED,700.00,Call Wall/Key Gamma Strike/0DTE Call Wall 700.00,#ffffff,#FF0000,left,3,TRUE
+MU@DXFEED,800.00,Key Delta Strike 800.00,#ffffff,#0000FF,left,3,TRUE
+MU@DXFEED,680.00,0DTE Put Wall/0DTE Most Negative Net Gamma 680.00,#ffffff,#00AA00,left,3,TRUE
+MU@DXFEED,735.00,0DTE Most Positive Net Gamma 735.00,#ffffff,#0000FF,left,3,TRUE
 NBIS@DXFEED,0.00,Day High/Day Low 0.00,#ffffff,#FF0000,left,3,TRUE
 NBIS@DXFEED,134.80,Prev Day High 134.80,#ffffff,#CC0000,left,3,TRUE
 NBIS@DXFEED,113.30,Prev Day Low 113.30,#ffffff,#008800,left,3,TRUE
@@ -231,7 +231,7 @@ PLTR@DXFEED,167.25,Prev Day High 167.25,#ffffff,#CC0000,left,3,TRUE
 PLTR@DXFEED,152.60,Prev Day Low 152.60,#ffffff,#008800,left,3,TRUE
 PLTR@DXFEED,150.00,Put Wall/0DTE Put Wall/0DTE Most Negative Net Gamma 150.00,#ffffff,#00AA00,left,3,TRUE
 PLTR@DXFEED,160.00,Call Wall/Key Gamma Strike/Key Delta Strike/0DTE Call Wall 160.00,#ffffff,#FF0000,left,3,TRUE
-PLTR@DXFEED,180.00,0DTE Most Positive Net Gamma 180.00,#ffffff,#0000FF,left,3,TRUE
+PLTR@DXFEED,175.00,0DTE Most Positive Net Gamma 175.00,#ffffff,#0000FF,left,3,TRUE
 QQQ@DXFEED,0.00,Day High/Day Low 0.00,#ffffff,#FF0000,left,3,TRUE
 QQQ@DXFEED,683.65,Prev Day High 683.65,#ffffff,#CC0000,left,3,TRUE
 QQQ@DXFEED,647.05,Prev Day Low 647.05,#ffffff,#008800,left,3,TRUE
@@ -271,10 +271,10 @@ SOXX@DXFEED,525.00,Call Wall 525.00,#ffffff,#FF0000,left,3,TRUE
 SPCX@DXFEED,0.00,Day High/Day Low 0.00,#ffffff,#FF0000,left,3,TRUE
 SPCX@DXFEED,131.87,Prev Day High 131.87,#ffffff,#CC0000,left,3,TRUE
 SPCX@DXFEED,120.39,Prev Day Low 120.39,#ffffff,#008800,left,3,TRUE
-SPCX@DXFEED,130.00,Put Wall/Key Gamma Strike/0DTE Most Positive Net Gamma 130.00,#ffffff,#00AA00,left,3,TRUE
-SPCX@DXFEED,150.00,Call Wall/Key Delta Strike 150.00,#ffffff,#FF0000,left,3,TRUE
+SPCX@DXFEED,120.00,Put Wall 120.00,#ffffff,#00AA00,left,3,TRUE
+SPCX@DXFEED,130.00,Call Wall/Key Gamma Strike/0DTE Call Wall/0DTE Most Positive Net Gamma 130.00,#ffffff,#FF0000,left,3,TRUE
+SPCX@DXFEED,150.00,Key Delta Strike 150.00,#ffffff,#0000FF,left,3,TRUE
 SPCX@DXFEED,125.00,0DTE Put Wall/0DTE Most Negative Net Gamma 125.00,#ffffff,#00AA00,left,3,TRUE
-SPCX@DXFEED,131.00,0DTE Call Wall 131.00,#ffffff,#FF0000,left,3,TRUE
 SPX@DXFEED,4625.00,Put Wall 4625.00,#ffffff,#00AA00,left,3,TRUE
 SPX@DXFEED,8100.00,Call Wall 8100.00,#ffffff,#FF0000,left,3,TRUE
 SPX@DXFEED,7360.00,Key Gamma Strike 7360.00,#ffffff,#FF8C00,left,3,TRUE
@@ -288,8 +288,7 @@ SPY@DXFEED,700.00,Put Wall 700.00,#ffffff,#00AA00,left,3,TRUE
 SPY@DXFEED,800.00,Call Wall 800.00,#ffffff,#FF0000,left,3,TRUE
 SPY@DXFEED,740.00,Key Gamma Strike 740.00,#ffffff,#FF8C00,left,3,TRUE
 SPY@DXFEED,750.00,Key Delta Strike/0DTE Call Wall 750.00,#ffffff,#0000FF,left,3,TRUE
-SPY@DXFEED,735.00,0DTE Put Wall 735.00,#ffffff,#00AA00,left,3,TRUE
-SPY@DXFEED,725.00,0DTE Most Negative Net Gamma 725.00,#ffffff,#FF8C00,left,3,TRUE
+SPY@DXFEED,725.00,0DTE Put Wall/0DTE Most Negative Net Gamma 725.00,#ffffff,#00AA00,left,3,TRUE
 SPY@DXFEED,755.00,0DTE Most Positive Net Gamma 755.00,#ffffff,#0000FF,left,3,TRUE
 SQQQ@DXFEED,35.00,Put Wall 35.00,#ffffff,#00AA00,left,3,TRUE
 SQQQ@DXFEED,40.00,Call Wall/Key Gamma Strike/Key Delta Strike 40.00,#ffffff,#FF0000,left,3,TRUE
